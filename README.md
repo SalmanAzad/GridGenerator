@@ -1,2 +1,0 @@
-# GridGenerator
-Grid Generation Application
